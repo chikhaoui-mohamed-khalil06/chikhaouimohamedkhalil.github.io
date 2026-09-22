@@ -147,7 +147,9 @@ body {
   font-family: "Poppins", sans-serif; }
 
 img {
-  max-width: 100%; }
+  max-width: 100%;
+  border-radius: 100px;
+}
 
 a {
   display: inline-block;
@@ -676,9 +678,6 @@ input, textarea {
     width: 150px;}
     .header .logo img {
       width: 150px;
-      height: 150px;
-      border-radius: 100px;
-      float: center;
       -webkit-transition: .3s;
       -o-transition: .3s;
       transition: .3s; }
