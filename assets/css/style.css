@@ -713,7 +713,7 @@ input, textarea {
   .header {
     padding: 10px 0; }
     .header .logo {
-      width: 100px;
+      width: 100%;
       margin: auto; }
     .header .nav-btn a {
       width: 30px;
