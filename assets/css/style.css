@@ -673,11 +673,12 @@ input, textarea {
   box-shadow: 0px 5px 25px -5px rgba(0, 0, 0, 0.05);
   z-index: 11; }
   .header .logo {
-    width: 150px;
-    height: 150px;
-    border-radius: 100px;
-    float: center;}
+    width: 150px;}
     .header .logo img {
+      width: 150px;
+      height: 150px;
+      border-radius: 100px;
+      float: center;
       -webkit-transition: .3s;
       -o-transition: .3s;
       transition: .3s; }
